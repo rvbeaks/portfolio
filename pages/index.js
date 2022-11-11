@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Charl Idiot Website</a>
+          Welcome to <a href="https://nextjs.org">BOBO MO CHARL TANGINA MO HAAHAHAA</a>
         </h1>
 
         <p className={styles.description}>
@@ -34,7 +34,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>sheesh &rarr;</h2>
-            <p>Learn about charl sheesh</p>
+            <p>LEARN ABOT HOW TO BE A GAY WITH CHARL</p>
           </a>
 
           <a
